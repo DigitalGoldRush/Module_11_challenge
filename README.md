@@ -25,9 +25,9 @@
 
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-[<img alt="DjangoREST" src="https://img.shields.io/badge/PyData-hvPlot-ff1709?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://pypi.org/project/python-dotenv/)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/?utm_source=scs-index)
 
-[<img alt="DjangoREST" src="https://img.shields.io/badge/scikit-learn-f6b26b?style=for-the-badge&logoColor=white&color=ff1709&labelColor=gray"/>](https://scikit-learn.org/stable/user_guide.html)
+[![FB Prophet](https://img.shields.io/badge/Facebook_Prophet-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)](https://pypi.org/project/prophet/)
   
 [<img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />](https://pandas.pydata.org/)
 
