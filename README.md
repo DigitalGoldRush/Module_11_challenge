@@ -2,17 +2,18 @@
 
 ## Forecasting with Prophet: Can predicting search traffic translate into successfully trading a stock?
 ---
-![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module_10_Challenge/blob/main/Resources/guerrillabuzz-crypto-pr-p9DzBzWhMls-unsplash.jpg)
+![<img src="[http://url/image.png" style=](https://github.com/DigitalGoldRush/Module-5-Challenge-/blob/main/money-tree%20jpeg%20from%20unsplash.com.jpeg width:10px ; height:10px " >](https://github.com/DigitalGoldRush/Module_11_challenge/blob/main/Resources/petr-sidorov-D3SzBCAeMhQ-unsplash.jpeg)
 
-### Building a crypto-based financial prototype using:
+### Configure Google Colab workplace with these programs:
+  - ### Prophet
   - ### Jupyter Notebook
   - ### Python
   - ### Pandas
-### Evaluate crypto performance over different periods
-### Techniques used:
-  - ### Data Normalization with Standard Scaler
-  - ### Clustering with K-Means & PCA
-  - ### HV PLot for Comparative Visualizations
+### Evaluate a fictional company named Mercado and maximize it's growth potential:
+  - ### Visual depictions of seasonality as measured by Google search traffic
+  - ### Eval company's stock price correlation with search traffic
+  - ### Create a Prophet forcast model that can predict hourly user search traffic
+  - ### Plot a forcast for the company's future revenue
 ---
 
 ## Technology Used
