@@ -46,12 +46,6 @@
 ```  
 
 ---
-## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
-### Pandas has many features, which was used in the code creation, and can be found at the link above. 
-
-## [hvPlot Usage](https://hvplot.holoviz.org/index.html)
-### hvPlot has many features, which was used in the code creation, and can be found at the link above. 
----
 ## Contributors
 
 [![Python](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
