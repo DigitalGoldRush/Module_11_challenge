@@ -37,39 +37,14 @@
 
 ## Installation Guide
 
-### 1. The easiest way to install JupyterLab is to download the Anaconda application.
-[![Anaconda-Server Badge](https://anaconda.org/conda-forge/markdown-include/badges/installer/conda.svg)](https://www.anaconda.com/products/distribution)
+### 1. Install the following libraries inside of [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/?utm_source=scs-index)
+  ```
+!pip install pystan
+!pip install prophet
+!pip install hvplot
+!pip install holoviews
+```  
 
-  - ### To install Juypter Lab with pip:
-```
-$ pip install jupyterlab
-```
-  - ### Then install Jupyter Notebook with pip:
-```
-$ pip install notebook
-```
-### 2. SciKit can be installed with pip:
-  ```
-$ pip install -U scikit-learn
-
-```
-  - ### Or using the conda command
- ```
-$ conda create -n sklearn-env -c conda-forge scikit-learn
-$ conda activate sklearn-env
-  ```
-### 3. To install Pandas create a new (Python 3) notebook in Jupyter Notebook and then in the prompt enter:
-```
-$ import pandas
-```
-### 4. Recommended way to install hvPLot is using the conda command
-  ```
- conda install -c pyviz hvplot
-``` 
-   - ### Or using PyPI
-```
-pip install hvplot
-```
 ---
 ## [Pandas Usage](https://pandas.pydata.org/docs/user_guide/index.html)
 ### Pandas has many features, which was used in the code creation, and can be found at the link above. 
